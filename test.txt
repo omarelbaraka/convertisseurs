@@ -1,0 +1,9 @@
+ACL2004-HEADLINE.txt
+B.txt
+compression_phrases_Prog-Linear-jair.txt
+hybrid_approach.txt
+marcu_statistics_sentence_pass_one.txt
+mikheev.txt
+probabilistic_sentence_reduction.txt
+Stolcke_1996_Automatic_linguistic.txt
+Torres.txt
